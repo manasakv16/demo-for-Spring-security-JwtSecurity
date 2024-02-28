@@ -1,4 +1,4 @@
-Demo for SPring secuirty using - JWT
+Demo for Spring secuirty using - JWT
 
 1. Token based authentication
 2. Role based authorization
